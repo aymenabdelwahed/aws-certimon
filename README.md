@@ -1,7 +1,7 @@
-# aws-certimon:
+# CERTIFICATE MONITORING: aws-certimon
   Usefull tool for TLS/SSL certificates' monitoring
 
-## CERTIFICATE ROTATION: ##
+## CERTIFICATE MONIRORING: ##
 Keeping track of certificate expiration dates is very important. However, tracking services that use SSL certificates is mundane, tedious and we often forget about them. This developed python script will automatically check SSL/TLS certificates expiry dates.
 
 This code will help identifying expired certificates and especially hosts on which certificates will expire and the remaining time period.
