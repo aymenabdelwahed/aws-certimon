@@ -1,4 +1,4 @@
-# aws-certimon: AMAZON CERTIFICATE MANAGER ACM 
+# aws-certimon:
   Usefull tool for TLS/SSL certificates' monitoring
 
 ## CERTIFICATE ROTATION: ##
