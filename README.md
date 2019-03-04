@@ -13,3 +13,6 @@ Check the expiration date for the FQDN expired.badssl.com over the HTTPS standar
 `
 aws-certimon --target expired.badssl.com --port 443
 `
+`
+aws-certimon -t google.com -p 443
+`
