@@ -9,7 +9,7 @@ TLS is the successor to Secure Sockets Layer (SSL). Both of TLS and SSL allows a
 
 ## How to use ?
 Check the expiration date for the FQDN expired.badssl.com over the HTTPS standard port
+
 `
 aws-certimon --target expired.badssl.com --port 443
-aws-certimon --target google.com --port 443
 `
